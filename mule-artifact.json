@@ -1,0 +1,16 @@
+{
+ "name": "keyhole-mule-spring-integration",
+  "minMuleVersion": "4.3.0",
+  "classLoaderModelLoaderDescriptor": {
+        "id": "mule",
+        "attributes": {
+            "exportedResources": [
+                "beans.xml"
+            ],
+            "exportedPackages": [
+              "com.khs.customer" 
+            ]
+        }
+    }
+  
+}
